@@ -2,8 +2,8 @@
 <h3 align="center">Full Stack AI Engineer — I take AI systems from notebook to production.</h3>
 
 <p align="center">
-  <a href="https://harmanhanjra.netlify.app"><img alt="Portfolio" src="https://img.shields.io/badge/Portfolio-harmanhanjra.netlify.app-6366f1?style=for-the-badge&logo=googlechrome&logoColor=white"></a>
-  <a href="https://www.linkedin.com/in/harman-hanjra-93b3451a6"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-harman--hanjra-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+  <a href="https://portfolio-five-iota-hy7w9w3o1t.vercel.app/"><img alt="Portfolio" src="https://img.shields.io/badge/Portfolio-vercel.app-6366f1?style=for-the-badge&logo=vercel&logoColor=white"></a>
+  <a href="https://www.linkedin.com/in/singh666"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-singh666-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"></a>
   <a href="mailto:2000sharmanpreet@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-2000sharmanpreet%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white"></a>
 </p>
 
@@ -14,7 +14,8 @@
 - 🔭 Building **LLM applications, agentic workflows, and RAG pipelines** that hold up outside the demo
 - 🛡️ Security-first engineer: taint tracking, OWASP, and "what does this leak?" as a design principle
 - 🌐 Open-source contributor in generative AI at **Reality AI Labs** — transformer modules for code generation & document intelligence
-- 📍 Berlin, Germany · open to **full-time, hybrid, or remote** roles worldwide
+- 🌍 Open to **anywhere** — full-time, on-site, hybrid, or remote
+- 📦 **10+ shipped apps** · backends serving **5,000+ users** · **AWS Certified**
 - ⚡ I ship: architecture → implementation → deployment → monitoring, end to end
 
 ### 🧰 Stack
@@ -51,16 +52,16 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=harmanhanjra&layout=compact&hide_border=true&theme=tokyonight" alt="Top languages" height="165"/>
 </p>
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=harmanhanjra&hide_border=true&theme=tokyonight" alt="GitHub streak" height="165"/>
+  <img src="https://streak-stats.demolab.com?user=harmanhanjra&hide_border=true&theme=tokyonight" alt="GitHub streak" height="165"/>
 </p>
 
 ### 📫 Let's talk
 
-**Hiring for AI engineering, full-stack, or security roles?** I'd love to hear about it.
+**Hiring for AI engineering, full-stack, or security roles?** I'd love to hear about it — anywhere, any setup.
 
-- 🌍 Portfolio: **[harmanhanjra.netlify.app](https://harmanhanjra.netlify.app)**
+- 🌍 Portfolio: **[portfolio-five-iota-hy7w9w3o1t.vercel.app](https://portfolio-five-iota-hy7w9w3o1t.vercel.app/)**
 - ✉️ Email: **2000sharmanpreet@gmail.com**
-- 💼 LinkedIn: **[harman-hanjra-93b3451a6](https://www.linkedin.com/in/harman-hanjra-93b3451a6)**
+- 💼 LinkedIn: **[singh666](https://www.linkedin.com/in/singh666)**
 
 ---
 
