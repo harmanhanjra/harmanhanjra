@@ -45,14 +45,20 @@
 | 🩺 | [**hookdoctor**](https://github.com/harmanhanjra/hookdoctor) | Webhook signature diagnostics, schema inference & replay — tells you *why* verification failed |
 | 🗺️ | [**onboarder**](https://github.com/harmanhanjra/onboarder) | Scans any repo and auto-generates a categorized onboarding checklist |
 
-### 📊 GitHub stats
+### 📊 GitHub Analytics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=harmanhanjra&show_icons=true&hide_border=true&theme=tokyonight" alt="GitHub stats" height="165"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=harmanhanjra&layout=compact&hide_border=true&theme=tokyonight" alt="Top languages" height="165"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=harmanhanjra&theme=tokyonight" alt="GitHub stats"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=harmanhanjra&theme=tokyonight" alt="Languages by repositories"/>
 </p>
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=harmanhanjra&hide_border=true&theme=tokyonight" alt="GitHub streak" height="165"/>
+  <img src="https://streak-stats.demolab.com?user=harmanhanjra&hide_border=true&theme=tokyonight&ring=58a6ff&fire=BC8CFF&currStreakNum=ffffff&sideNums=ffffff&dateNums=ffffff&labels=8b949e" alt="GitHub streak" height="192"/>
+  <a href="https://github.com/harmanhanjra?tab=repositories">
+    <img align="middle" src="https://komarev.com/ghpvc/?username=harmanhanjra&style=for-the-badge&color=6366f1&label=PROFILE+VIEWS" alt="Profile views"/>
+  </a>
+</p>
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=harmanhanjra&theme=tokyonight" alt="Languages by commits"/>
 </p>
 
 ### 📫 Let's talk
