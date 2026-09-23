@@ -1,0 +1,67 @@
+<h1 align="center">Hi, I'm Harmanpreet Singh</h1>
+<h3 align="center">Full Stack AI Engineer — I take AI systems from notebook to production.</h3>
+
+<p align="center">
+  <a href="https://harmanhanjra.netlify.app"><img alt="Portfolio" src="https://img.shields.io/badge/Portfolio-harmanhanjra.netlify.app-6366f1?style=for-the-badge&logo=googlechrome&logoColor=white"></a>
+  <a href="https://www.linkedin.com/in/harman-hanjra-93b3451a6"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-harman--hanjra-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+  <a href="mailto:2000sharmanpreet@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-2000sharmanpreet%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white"></a>
+</p>
+
+---
+
+### 👨‍💻 About me
+
+- 🔭 Building **LLM applications, agentic workflows, and RAG pipelines** that hold up outside the demo
+- 🛡️ Security-first engineer: taint tracking, OWASP, and "what does this leak?" as a design principle
+- 🌐 Open-source contributor in generative AI at **Reality AI Labs** — transformer modules for code generation & document intelligence
+- 📍 Berlin, Germany · open to **full-time, hybrid, or remote** roles worldwide
+- ⚡ I ship: architecture → implementation → deployment → monitoring, end to end
+
+### 🧰 Stack
+
+<p>
+  <img alt="TypeScript" src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white">
+  <img alt="Python" src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white">
+  <img alt="React" src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black">
+  <img alt="Next.js" src="https://img.shields.io/badge/Next.js-black?style=flat-square&logo=nextdotjs&logoColor=white">
+  <img alt="Node.js" src="https://img.shields.io/badge/Node.js-5FA04E?style=flat-square&logo=nodedotjs&logoColor=white">
+  <img alt="FastAPI" src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white">
+  <img alt="LangChain" src="https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white">
+  <img alt="MongoDB" src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white">
+  <img alt="PostgreSQL" src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white">
+  <img alt="Redis" src="https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white">
+  <img alt="Docker" src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white">
+  <img alt="AWS" src="https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonwebservices&logoColor=white">
+</p>
+
+### 🚀 Featured projects
+
+| | Project | Why it matters |
+|---|---|---|
+| 🤖 | [**OpenMausBotV2**](https://github.com/harmanhanjra/OpenMausBotV2) | Your own team of AI bots in one chat app — Claude, Codex, Grok & NVIDIA NIM models, each with its own model, computer, and apps |
+| 🔍 | [**codesec**](https://github.com/harmanhanjra/codesec) | AI security review agent for GitHub PRs — Tree-sitter + Semgrep + taint tracking + LLM semantic analysis, multi-agent |
+| 🕵️ | [**redactscan**](https://github.com/harmanhanjra/redactscan) | Offline disclosure auditor — finds what your files reveal about you *before* you share them |
+| 🩺 | [**hookdoctor**](https://github.com/harmanhanjra/hookdoctor) | Webhook signature diagnostics, schema inference & replay — tells you *why* verification failed |
+| 🗺️ | [**onboarder**](https://github.com/harmanhanjra/onboarder) | Scans any repo and auto-generates a categorized onboarding checklist |
+
+### 📊 GitHub stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=harmanhanjra&show_icons=true&hide_border=true&theme=tokyonight" alt="GitHub stats" height="165"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=harmanhanjra&layout=compact&hide_border=true&theme=tokyonight" alt="Top languages" height="165"/>
+</p>
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=harmanhanjra&hide_border=true&theme=tokyonight" alt="GitHub streak" height="165"/>
+</p>
+
+### 📫 Let's talk
+
+**Hiring for AI engineering, full-stack, or security roles?** I'd love to hear about it.
+
+- 🌍 Portfolio: **[harmanhanjra.netlify.app](https://harmanhanjra.netlify.app)**
+- ✉️ Email: **2000sharmanpreet@gmail.com**
+- 💼 LinkedIn: **[harman-hanjra-93b3451a6](https://www.linkedin.com/in/harman-hanjra-93b3451a6)**
+
+---
+
+<p align="center"><i>"Ship it, secure it, then ship it again."</i></p>
